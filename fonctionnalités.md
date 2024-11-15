@@ -5,6 +5,15 @@
 - corbeille de mots de passe (15j)
 - import depuis d'autres gestionnaires de mots de passe
 - export
+- génération de mot de passe
+- régénérateur de mot de passe (mots de passe mis à jour dynamiquement (1 an) pour sites compatibles)
+
+## Fonctionnalités utilisateur
+
+- recherche
+- dossiers
+- tags
+- catégories
 - partage
 
 ## Fonctionnalités additives
