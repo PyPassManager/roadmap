@@ -5,6 +5,13 @@
 - corbeille de mots de passe (15j)
 - import depuis d'autres gestionnaires de mots de passe
 - export
+- partage
+
+## Fonctionnalités additives
+
+- notes sécurisées
+- adresses
+- cartes bancaires (démo uniquement)
 
 ## Fonctionnalités OTP
 
